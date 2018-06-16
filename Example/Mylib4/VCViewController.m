@@ -7,6 +7,7 @@
 //
 
 #import "VCViewController.h"
+#import "VCHeadScrollView.h"
 
 @interface VCViewController ()
 

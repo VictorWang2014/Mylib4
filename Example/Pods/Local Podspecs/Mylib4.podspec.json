@@ -2,17 +2,17 @@
   "name": "Mylib4",
   "version": "0.1.0",
   "summary": "A short description of Mylib4.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/SoftDEV2001@CMaiL888.com/Mylib4",
+  "description": "about short my lib 5qweqweqweqweqwe qweqwe",
+  "homepage": "https://github.com/VictorWang2014/Mylib4",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "SoftDEV2001@CMaiL888.com": "544635341@qq.com"
+    "VictorWang2014": "544635341@qq.com"
   },
   "source": {
-    "git": "https://github.com/SoftDEV2001@CMaiL888.com/Mylib4.git",
+    "git": "https://github.com/VictorWang2014/Mylib4.git",
     "tag": "0.1.0"
   },
   "platforms": {

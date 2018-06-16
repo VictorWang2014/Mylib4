@@ -2,10 +2,4 @@ use_frameworks!
 
 target 'Mylib4_Example' do
   pod 'Mylib4', :path => '../'
-
-  target 'Mylib4_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
