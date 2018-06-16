@@ -1,0 +1,22 @@
+{
+  "name": "Mylib4",
+  "version": "0.1.0",
+  "summary": "A short description of Mylib4.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SoftDEV2001@CMaiL888.com/Mylib4",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SoftDEV2001@CMaiL888.com": "544635341@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SoftDEV2001@CMaiL888.com/Mylib4.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Mylib4/Classes/**/*"
+}
